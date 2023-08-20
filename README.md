@@ -11,4 +11,5 @@ After cloning the github, you will want to do the following to get the code runn
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
-##### walk-through the loom video https://www.loom.com/share/c922006323f44f5292242e5e2fa3ab7f?sid=66f927a3-38f8-4563-a267-1de163959e0c
+##### walk-through the loom video 
+https://www.loom.com/share/c922006323f44f5292242e5e2fa3ab7f?sid=66f927a3-38f8-4563-a267-1de163959e0c
